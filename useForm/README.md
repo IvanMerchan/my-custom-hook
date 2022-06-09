@@ -7,8 +7,6 @@ Ejemplo de uso:
         age: 0,
         email: ''
     };
-    
+
     const [ values, handleImputChange, reset ] = useForm( initialForm );
 ```
-
- useCounter() // recibe un valor por defecto
